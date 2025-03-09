@@ -143,5 +143,60 @@ markdown_extensions:
   - pymdownx.tilde
 
 # Page tree
+# nav:
+#   - Home: index.md
+
 nav:
   - Home: index.md
+
+  - About:
+    - about/index.md 
+    - 3 Strategic Pillars: 
+      - Pillar 1 - DF Rounds: about/pillars/pillar-1.md
+      - Pillar 2 - RFPs and other funding routes: about/pillars/pillar-2.md
+      - Pillar 3 - Developer outreach: about/pillars/pillar-3.md
+    - Main Tools and Environments:
+      - about/main-tools-and-environments/index.md
+      - Architecture - Vision: about/main-tools-and-environments/architecture.md
+      - DeepFunding.AI: about/main-tools-and-environments/deepfunding.md
+      - Community.deepfunding.AI:
+        - Subsites and and Aggregate site: about/main-tools-and-environments/subsites_and_aggregate.md
+        - DeepFunding subsite: about/main-tools-and-environments/deepfunding-subsites.md
+      - Developers.deepfunding.AI: about/main-tools-and-environments/developers.md
+    - Operations:
+      - about/operations/index.md
+      - Circles: about/operations/circles.md
+      - Work Groups: about/operations/work_groups.md
+      - Backend Automation: about/operations/backend_automation.md
+    - DeepFunding in Numbers: about/deepfunding-in-numbers.md
+    - Awarded Tooling Projects in DF: about/awarded-tooling-projects-in-df.md
+    - Short to midterm goals: about/short-to-midterm-goals.md
+
+  - Awarded Teams:
+    - awarded_teams/index.md
+    - Who to Contact: awarded_teams/who_to_contact.md
+    - Proposal Submission: awarded_teams/proposal_submission.md
+    - Awarded Teams Flowchart: awarded_teams/awarded_teams_flowchart.md
+    - Contract Signing:
+      - awarded_teams/contract_signing/index.md
+      - Receive Your Contract: awarded_teams/contract_signing/receive_your_contract.md
+      - Sign Your Contract: awarded_teams/contract_signing/sign_your_contract.md
+    - Join Mattermost Platform:
+      - awarded_teams/join_mattermost/join_mattermost_platform.md
+      - General Awarded Teams Channel: awarded_teams/join_mattermost/general_awarded_teams_channel.md
+      - Individual Channels for Proposals: awarded_teams/join_mattermost/individual_channels_for_proposals.md
+    - Milestone Deliverables:
+      - awarded_teams/milestone_deliverables/index.md
+      - Project Codes: awarded_teams/milestone_deliverables/project_codes.md
+      - Complete Your Milestone: awarded_teams/milestone_deliverables/complete_your_milestone.md
+      - Submit Milestone Deliverable: awarded_teams/milestone_deliverables/submit_milestone_deliverable.md
+      - Receive Milestone Review Report: awarded_teams/milestone_deliverables/receive_milestone_review_report.md
+      - Receive Your Milestone Funds: awarded_teams/milestone_deliverables/receive_your_milestone_funds.md
+    - Updating Your Project's Info:
+      - awarded_teams/updating_your_projects_info/index.md
+      - Possible Changes: awarded_teams/updating_your_projects_info/possible_changes.md
+      - Responsible Coordinator(s): awarded_teams/updating_your_projects_info/responsible_coordinators.md
+      - Step-by-step Instructions: awarded_teams/updating_your_projects_info/step-by-step_instructions.md
+    - FAQ: awarded_teams/faq.md
+
+  - Useful Links: useful_links.md
