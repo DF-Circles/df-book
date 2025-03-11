@@ -197,6 +197,22 @@ nav:
       - Possible Changes: awarded_teams/updating_your_projects_info/possible_changes.md
       - Responsible Coordinator(s): awarded_teams/updating_your_projects_info/responsible_coordinators.md
       - Step-by-step Instructions: awarded_teams/updating_your_projects_info/step-by-step_instructions.md
+    
     - FAQ: awarded_teams/faq.md
 
+  - All Circles:
+    - Wallet Creation for receiving payments:
+      - all_circles/wallet_creation/index.md
+      - Lace Wallet: all_circles/wallet_creation/lace_wallet.md
+      - Yoroi Wallet: all_circles/wallet_creation/yoroi_wallet.md
+      - Eternl Wallet: all_circles/wallet_creation/eternl_wallet.md
+    - Circle Payments:
+      - all_circles/circle_payments/index.md
+      - Steps for Circle Members: all_circles/circle_payments/circle_members_payments.md
+      - Steps for Circle Coordinators: all_circles/circle_payments/circle_coordinators_payments.md
+    - How to exchange your tokens:
+      - all_circles/how_to_exchange_your_tokens/index.md
+      - Exchanging AGIX via Decentralized Exchange: all_circles/how_to_exchange_your_tokens/exchanging_agix_via_decentralized_exchange.md
+      - Exchanging your AGIX to FET: all_circles/how_to_exchange_your_tokens/exchanging_your_agix_to_fet.md
+  
   - Useful Links: useful_links.md
