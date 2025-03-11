@@ -2,7 +2,7 @@
 
 ## Purpose and Goals
 
-The **main purpose** of Deep Funding is the same as that of the SingularityNET Foundation: driving the development of a democratic, inclusive **Beneficial Artificial General Intelligence**.
+The **main purpose** of Deep Funding is the same as that of the SingularityNET Foundation: driving the development of a democratic, inclusive **Beneficial Artificial General Intelligence**. Test Change
 
 ## Strategic Goals
 
