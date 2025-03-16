@@ -1,4 +1,4 @@
-**Main rules and processes**: 
+## **Main rules and processes**: 
 
 - Anyone can submit a proposal. The community decides by means of a voting process which project will be awarded. 
 
@@ -10,7 +10,7 @@
 
 - Frequency: currently a round twice a year seems optimal, especially with ongoing RFPs at the same time. As we are maturing we are better able to schedule these rounds at fixed dates.
 
-**Top 3 Main improvements in the pipeline**:
+## **Top 3 Main improvements in the pipeline**:
 
 1. Better integration of the **reputation** system with more advanced algorithms. Also, some kind of **light KYC** would be very helpful
 

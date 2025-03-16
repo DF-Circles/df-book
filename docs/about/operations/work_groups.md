@@ -1,4 +1,4 @@
-# Work Groups
+# __Work Groups__
 
 Not all topics can be effectively discussed in a group of 20-30 people and some topics require multiple sessions for a deeper dive. Work groups were created to focus on a certain topic with a smaller group of committed Circle members for a limited period.
 

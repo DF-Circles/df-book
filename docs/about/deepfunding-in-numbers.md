@@ -1,3 +1,5 @@
+# 📊 **DeepFunding in Numbers**
+
 |                            | DFR1  | DFR2     | DFR3      | DFR4 beta | DFR4     | Total      |
 |----------------------------|-------|---------|----------|----------|---------|------------|
 | **Total amount available (AGIX)** | $1.0M  | $0.5M   | $1.53M   | $0.265M  | $1.52M  | 4.815      |
@@ -8,7 +10,7 @@
 | **Nr. of awarded projects** | 12   | 17      | 43       | 9        | 29      |            |
 | **Nr. of wallets that voted** | 158 | 187     | 220      |          |         |            |
 
-RFPs
+## __RFPs__
 
 Temporary dashboard with all projects and milestones: [Dashboards (Deprecated)](https://docs.google.com/spreadsheets/d/1NW0QITt2VNNbeKjWcymH8lnycYwyLGC7dB_AfZqrzIA/edit?usp=sharing){ data-preview }
 
@@ -20,16 +22,16 @@ Fragment:
 
 Blogs with some analytic review on the voting process in each round:
 
-DFR1
+## __DFR1__
 
 - https://deepfunding.ai/deep-funding-round-1-voting-analysis-part-1-number-crunching/ 
 
 - https://deepfunding.ai/deep-funding-round-1-voting-analysis-part-2/ 
 
-DFR2:
+## __DFR2__
 
 - https://deepfunding.ai/round-2-voting-analysis/ 
 
-DFR3
+## __DFR3__
 
 - https://deepfunding.ai/dfr3-analysis-of-the-results/ 

@@ -1,4 +1,4 @@
-**Main goals**
+## **Main goals**
 
 - Improve and extend backend automation
 
@@ -12,9 +12,9 @@
 
     - (The goal is to identify an actor as a unique human individual in the ecosystem, no other personal data is required)
 
- 
 
-**Work in progress on automation**:
+## **Work in progress on automation**:
+
 Note that also this is being developed by partime, semi-volunteer community members in our **Operation Automation Circle**!
 
 *Round Metrics*
@@ -26,7 +26,7 @@ Note that also this is being developed by partime, semi-volunteer community memb
 *Postgres Database*
 ![postgres Database](images/postgres_database.png)
 
-**Secondary goals**
+## **Secondary goals**
 
 - Explore alternative voting and reputation mechanisms such as Quadratic voting including ‘strength of opinion’ polling and collation/correlation metrics, supported by the simulation tool
 

@@ -1,4 +1,4 @@
-# Main Tools and Environments
+# 🛠️ Main Tools and Environments
 
 We started out building our own DF website, which we further developed into a full-featured Proposal and project portal. However, we have other communication needs as well. To enable multiple teams develop different feature sets in parallel, we have identified 3 separate frontend environments:
 

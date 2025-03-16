@@ -7,19 +7,19 @@ We are developing 3 possible flows for RFPs:
 
 *Short and Medium Track*
 
-1.**Short track**
+## **1. Short track**
 
 Best suited for technical projects where the SNET or Partner team is best situated to make a selection of proposals.
 
 **Steps**: The RFP is published - proposals are submitted - at the end of the proposal period the RFP owner selects the winning proposal(s)
 
-2.**Medium track**
+## **2. Medium track**
 
 RFPs can be published by SNET of partners, but some community involvement is desired. This will utilize the group of ‘Community Experts’ we are building out.
 
 **Steps**: The RFP is published - proposals are submitted - a shortlist of acceptable proposals is defined by the owner(s) of the RFP - The Community experts will make the final selection. 
 
-3.**Community-driven RFPs**
+## **3. Community-driven RFPs**
 
 Because Flow 2 and 3 are still pretty centralized, we are developing a third flow, where the community is not only involved in creating proposals but also in ideating and creating the RFP itself. Main takeaways:
 
@@ -46,7 +46,7 @@ From here on the process will roughly follow the medium track.
 
  Note: The ideation process needs to be a bit more fleshed out and might overlap with functionalities in the collaboration portal.
 
-**Generic behavior in all flows**:
+## **Generic behavior in all flows**:
 
 - Anyone can ask questions on the RFP but only the owner can answer, in public, creating an equal playing field for everyone
 
@@ -62,7 +62,7 @@ From here on the process will roughly follow the medium track.
 
 - Proposals will only be visible to the owner of the RFP until the submission period is final. (The submission period can still be re-opened after assessing the first proposals). This is to protect the proposers from copy behavior by their competitors, and will hopefully incentivize them to submit early
 
-**Main documents**
+## **Main documents**
 
 - RFP creation template and instruction: [DF - RFP - Template V2](https://docs.google.com/document/d/107aaHSitKlz4TEsPX1YP07DJVCg1mlJ3I3sESXE0ZCM/edit?usp=sharing){ data-preview }
 
@@ -72,7 +72,7 @@ We are (currently) on a trajectory of diversification, in alignment of the insig
 
 We analyzed there is a gap in our (planned) routes for a specific type of projects / funding needs. Projects that have a brilliant idea, that are under time pressure and may benefit from a less public approach. 
 
-‘**Open ended RFPs’ (Name TBD)**
+## ‘**Open ended RFPs’ (Name TBD)**
 
 There is the idea of having a kind of lightweight RFP, that has a (yearly?) budget, but no specific deadlines. A dedicated committee will review the incoming proposals regularly, and whenever there is a proposal that stands out and is expected to bring exceptional value, we can award it with some budget. This will offer a kind of ‘fast route’ for brilliant projects that require speed and perhaps less public visibility while in development. The details regarding budget sources, and the make up of this committee etc. are to be determined. Example topics for ‘Open ended RFPs’ can be: 
 
@@ -84,7 +84,7 @@ There is the idea of having a kind of lightweight RFP, that has a (yearly?) budg
 
 - Marketing proposals ( general conditions but will be strictly evaluated against added value, measurability etc.) 
 
-**Funding decision tree**
+## **Funding decision tree**
 
 To clarify all (future) funding options and their target audiences, we created this funding decision tree:
 

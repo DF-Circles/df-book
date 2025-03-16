@@ -1,106 +1,68 @@
-# Welcome to the DF Books
+# __Welcome to DF Book- DeepFunding Circles Documentation Resource__
 
-Welcome to the **Documentation Work Group**! Our mission is to create, maintain, and improve documentation resources for DeepFunding Circles and backend systems. Proper documentation ensures clarity, efficiency, and collaboration across all our initiatives.
+Welcome to the comprehensive documentation resource for DeepFunding Circles. This documentation serves as your guide to understanding and participating in the DeepFunding ecosystem, whether you're an awarded team member, circle participant, or interested in learning more about our initiatives.
 
----
+## __🎯 Quick Start Guides__
 
-## **About This Resource**
+- [**For Awarded Teams**](awarded_teams/who_to_contact.md) - Essential information for teams with approved proposals
+- [**For Circle Members**](all_circles/circle_payments/circle_members_payments.md) - Guide for DeepFunding circle participants
+- [**Wallet Setup Guide**](all_circles/wallet_creation/index.md) - How to set up your wallet for receiving payments
 
-This documentation site serves as a centralized hub for all things related to the Documentation Work Group:
-- Learn about our objectives and ongoing projects.
-- Explore guidelines and templates for creating effective documentation.
-- Stay updated with the latest progress and initiatives.
+## __🌟 About DeepFunding__
 
----
+DeepFunding is built on three strategic pillars:
 
-## **Quick Links**
+1. [**DF Rounds**](about/pillars/pillar-1.md) - Our core funding mechanism
+2. [**RFPs & Alternative Funding Routes**](about/pillars/pillar-2.md) - Targeted development initiatives
+3. [**Developer Outreach**](about/pillars/pillar-3.md) - Community engagement and growth
 
-| Section                                | Description                                |
-|----------------------------------------|--------------------------------------------|
-| [Getting Started](#getting-started)    | Understand our mission and how to engage with us. |
-| [Circles Documentation](#circles-documentation) | Explore documentation for DeepFunding Circles. |
-| [Backend Systems](#backend-systems)    | Learn about technical documentation for backend tools. |
-| [Guidelines and Templates](#guidelines-and-templates) | Access templates for creating consistent documentation. |
-| [FAQ](#faq)                            | Frequently Asked Questions. |
+→ [Learn more about our strategic vision](about/index.md)
 
----
+## __🔄 DeepFunding Circles__
 
-## **Getting Started**
+Our ecosystem is organized into specialized circles, each contributing to different aspects of DeepFunding:
 
-### **Our Objectives**
-The Documentation Work Group aims to:
-- Provide structured, easy-to-navigate documentation.
-- Build reusable frameworks for technical and operational resources.
-- Collaborate with teams to meet their unique documentation needs.
+- **Documentation Circle** - Maintaining and improving our documentation
+- **Review Circle** - Responsible for eligibility reviews during rounds and milestone approvals in between rounds
+- **Marketing Circle** - Social media, newsletter ‘deep dive’ video editing, exposure of awarded teams and completed projects, etc.
+- **Operations Circle** - Day-to-day operations and coordination
+- **Developer Outreach Circle** - Hackathons and other events to attract new developers.
+- **Events Circle** - Community engagement, meetings, announcements and Townhalls
+- **Data Analytics Circle** - Responsible for independent auditing of voting results, advising on changes in the algorithm, and any other data-related topic.
 
-### **How You Can Help**
-Whether you're a Circle lead, developer, or community member, we encourage you to:
-1. **Collaborate:** Share your input and unique use cases.
-2. **Contribute:** Help us identify gaps and improve existing materials.
-3. **Stay Engaged:** Provide feedback to keep documentation up-to-date.
+→ [Learn more about our circles](about/operations/circles.md)
 
----
+## __📚 Key Resources__
 
-## **Circles Documentation**
+### For Awarded Teams
+- [Proposal Submission Guide](awarded_teams/proposal_submission.md)
+- [Contract Signing Process](awarded_teams/contract_signing/index.md)
+- [Milestone Deliverables](awarded_teams/milestone_deliverables/index.md)
+- [Project Updates](awarded_teams/updating_your_projects_info/index.md)
 
-Our primary goal is to support DeepFunding Circles in documenting:
-- Roles and responsibilities.
-- Workflows and processes.
-- Best practices for onboarding new members.
+### For Circle Members
+- [Circle Payment Process](all_circles/circle_payments/index.md)
+- [Token Exchange Guide](all_circles/how_to_exchange_your_tokens/index.md)
 
-Visit the **[Circles Documentation](#)** section to learn more and explore resources tailored for each Circle.
+## __🛠️ Tools and Platforms__
 
----
+- [DeepFunding.AI](about/main-tools-and-environments/deepfunding.md) - Our main platform
+- [Community Portal](about/main-tools-and-environments/subsites_and_aggregate.md) - Community engagement hub
+- [Developer Portal](about/main-tools-and-environments/developers.md) - Resources for developers
 
-## **Backend Systems**
+## __📊 DeepFunding Stats & Impact__
 
-We're extending our responsibilities to cover documentation for backend systems, including:
-- The Community Portal
-- Proposal Submission Tool
-- Operations System
-- And more...
+- [DeepFunding in Numbers](about/deepfunding-in-numbers.md)
+- [Awarded Tooling Projects](about/awarded-tooling-projects-in-df.md)
+- [Future Goals](about/short-to-midterm-goals.md)
 
-This section includes:
-- **Technical Guides:** API references, setup instructions, and troubleshooting.
-- **User Guides:** Accessible content for non-technical stakeholders.
+## __🤝 Need Help?__
 
-[Learn more about Backend Systems documentation.](#)
+- [FAQ](awarded_teams/faq.md)
+- [Useful Links](useful_links.md)
+- [Who to Contact](awarded_teams/who_to_contact.md)
 
 ---
 
-## **Guidelines and Templates**
-
-Consistency is key! Access our standardized templates and guidelines for:
-- Circle-led documentation.
-- Backend system processes.
-- Onboarding guides and FAQs.
-
-### **Quick Start Templates**
-| Template Name                        | Description                                   |
-|--------------------------------------|-----------------------------------------------|
-| [Circle Documentation Template](#)  | A reusable structure for documenting Circle workflows. |
-| [Backend Systems Template](#)       | A guide for creating technical system documentation. |
-
----
-
-## **FAQ**
-
-### **Why is documentation important?**
-Clear documentation ensures transparency, enables collaboration, and saves time by providing readily available resources for stakeholders.
-
-### **Who maintains the documentation?**
-The Documentation Work Group leads the effort, but we rely on active collaboration from Circle members and system developers.
-
-### **How do I provide feedback or contribute?**
-Reach out to any Work Group member or submit your feedback via the **[Feedback Form](#)**.
-
----
-
-## **Stay Connected**
-
-For updates and questions:
-- Join our discussions in the **DeepFunding Circles.**
-- Attend Town Halls for live updates and Q&A.
-- Contact: **[your_email@example.com](mailto:exampleemail@example.com)**
-
----
+!!! tip "New to DeepFunding?"
+    If you're new to DeepFunding, we recommend starting with our [About section](about/index.md) to understand our mission and structure, followed by the relevant quick start guide for your role.

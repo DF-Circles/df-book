@@ -1,4 +1,4 @@
-# Developers.deepfunding.AI or **ASI Connect**
+# **Developers.deepfunding.AI or ASI Connect**
 
 This is being explored, but not yet in the building Phase.
 

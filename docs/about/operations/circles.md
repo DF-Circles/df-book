@@ -1,9 +1,9 @@
-Circles
+# __Circles__
 
-From the start of DF, we tried to involve the community, not only by voting on the proposals but also in the governance of DF itself. 
+From the start of DeepFunding, we tried to involve the community, not only by voting on the proposals but also in the governance of DF itself. 
 We have had Governance calls and even Governance rounds, where community members could make proposals and vote on them.
 
-Currently, DF has an operational layer that is made up of ‘Circles’. A flat organizational structure with largely self-steering groups assigned with certain tasks and responsibilities.
+Currently, DeepFunding has an operational layer that is made up of ‘Circles’. A flat organizational structure with largely self-steering groups assigned with certain tasks and responsibilities.
 
 During the summer of 2023, we started the first ‘CIrcle’: The Focus group, which was aimed to mediate between staff and community. We added other circles, and at the beginning of 2024, we had 4 Circles. Recently the number has grown further, partly because of the growth of the program and specialization of some tasks, partly due to an expanding scope of things to do. See the list of all circles below. More information should be available shortly on: community.deepfunding.ai.
 
