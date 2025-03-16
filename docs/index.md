@@ -1,6 +1,6 @@
 # __Welcome to DF Book- DeepFunding Circles Documentation Resource__
 
-Welcome to the comprehensive documentation resource for DeepFunding Circles. This documentation serves as your guide to understanding and participating in the DeepFunding ecosystem, whether you're an awarded team member, circle participant, or interested in learning more about our initiatives.
+This documentation serves as your guide to understanding and participating in the DeepFunding ecosystem, whether you're an awarded team member, circle participant, or interested in learning more about our initiatives.
 
 ## __🎯 Quick Start Guides__
 
@@ -23,12 +23,14 @@ DeepFunding is built on three strategic pillars:
 Our ecosystem is organized into specialized circles, each contributing to different aspects of DeepFunding:
 
 - **Documentation Circle** - Maintaining and improving our documentation
+- **Focus Group** - We are debating the future of the FG and potential transition to a ‘board’ function. This is my (Jan’s) view on the matter (d.d. Aug 14 2024) [Google Doc](https://docs.google.com/document/d/1nrLeYg12BRc_t1QLf3b7xufJ4qfV17cNopm7ehMD_U/edit?usp=sharing)
 - **Review Circle** - Responsible for eligibility reviews during rounds and milestone approvals in between rounds
 - **Marketing Circle** - Social media, newsletter ‘deep dive’ video editing, exposure of awarded teams and completed projects, etc.
 - **Operations Circle** - Day-to-day operations and coordination
 - **Developer Outreach Circle** - Hackathons and other events to attract new developers.
 - **Events Circle** - Community engagement, meetings, announcements and Townhalls
 - **Data Analytics Circle** - Responsible for independent auditing of voting results, advising on changes in the algorithm, and any other data-related topic.
+- **Onboarding Circle** - Responsible for onboarding new members to activities and to the community.
 
 → [Learn more about our circles](about/operations/circles.md)
 
