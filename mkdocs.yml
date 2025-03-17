@@ -3,7 +3,9 @@ site_name: DF Book
 site_url: https://DF-Circles.github.io/df-book
 site_author: DF-WG-Documentation Circle
 site_description: >-
-  TODO
+  A comprehensive documentation resource for Deep Funding Circle operations, providing guides, 
+  workflows, and essential information for awarded teams, circle members, and the broader 
+  Deep Funding community.
 
 # Repository
 repo_name: DF-Circles/df-book
