@@ -144,10 +144,6 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
-# Page tree
-# nav:
-#   - Home: index.md
-
 nav:
   - 🏠 Home: index.md
 
