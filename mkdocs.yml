@@ -51,23 +51,11 @@ theme:
     # - toc.integrate
 
   palette:
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: deep purple # The primary color is used for the header, the sidebar, text links and several other components.
-      accent: deep purple # The accent color is used to denote elements that can be interacted with, e.g. hovered links, buttons and scrollbars.
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: black
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch-off
-        name: Switch to light mode
+    # Light mode only with white background
+    scheme: default
+    primary: indigo  # "indigo" for better contrast against white background
+    accent: indigo
+    # Toggle section removed as there's only one theme now
     
   font:
     text: Roboto
@@ -147,28 +135,53 @@ markdown_extensions:
 nav:
   - 🏠 Home: index.md
 
-  - 📚 About:
-    - about/index.md 
-    - 🎯 3 Strategic Pillars: 
-      - Pillar 1 - DF Rounds: about/pillars/pillar-1.md
-      - Pillar 2 - RFPs and other funding routes: about/pillars/pillar-2.md
-      - Pillar 3 - Developer outreach: about/pillars/pillar-3.md
-    - 🛠️ Main Tools and Environments:
-      - about/main-tools-and-environments/index.md
-      - Architecture - Vision: about/main-tools-and-environments/architecture.md
-      - DeepFunding.AI: about/main-tools-and-environments/deepfunding.md
-      - Community.deepfunding.AI:
-        - Subsites and and Aggregate site: about/main-tools-and-environments/subsites_and_aggregate.md
-        - DeepFunding subsite: about/main-tools-and-environments/deepfunding-subsites.md
-      - Developers.deepfunding.AI: about/main-tools-and-environments/developers.md
-    - ⚙️ Operations:
-      - about/operations/index.md
-      - Circles: about/operations/circles.md
-      - Work Groups: about/operations/work_groups.md
-      - Backend Automation: about/operations/backend_automation.md
-    - 📊 DeepFunding in Numbers: about/deepfunding-in-numbers.md
-    - 🏆 Awarded Tooling Projects in DF: about/awarded-tooling-projects-in-df.md
-    - 🎯 Short to midterm goals: about/short-to-midterm-goals.md
+  # - 📚 About:
+  #   - about/index.md 
+  #   - 🎯 3 Strategic Pillars: 
+  #     - Pillar 1 - DF Rounds: about/pillars/pillar-1.md
+  #     - Pillar 2 - RFPs and other funding routes: about/pillars/pillar-2.md
+  #     - Pillar 3 - Developer outreach: about/pillars/pillar-3.md
+  #   - 🛠️ Main Tools and Environments:
+  #     - about/main-tools-and-environments/index.md
+  #     - Architecture - Vision: about/main-tools-and-environments/architecture.md
+  #     - DeepFunding.AI: about/main-tools-and-environments/deepfunding.md
+  #     - Community.deepfunding.AI:
+  #       - Subsites and and Aggregate site: about/main-tools-and-environments/subsites_and_aggregate.md
+  #       - DeepFunding subsite: about/main-tools-and-environments/deepfunding-subsites.md
+  #     - Developers.deepfunding.AI: about/main-tools-and-environments/developers.md
+  #   - ⚙️ Operations:
+  #     - about/operations/index.md
+  #     - Circles: about/operations/circles.md
+  #     - Work Groups: about/operations/work_groups.md
+  #     - Backend Automation: about/operations/backend_automation.md
+  #   - 📊 DeepFunding in Numbers: about/deepfunding-in-numbers.md
+  #   - 🏆 Awarded Tooling Projects in DF: about/awarded-tooling-projects-in-df.md
+  #   - 🎯 Short to midterm goals: about/short-to-midterm-goals.md
+  - Review Circle:
+    - 🏛️ Structure and Governance: review_circle/structure-and-governance.md
+
+    - 📝 Eligibility Proposals Review:
+        - review_circle/eligibility-proposals-review/index.md
+        - 📌 Assigned tasks: review_circle/eligibility-proposals-review/assigned-tasks.md
+        - 🔄 In Progress tasks: review_circle/eligibility-proposals-review/proposal-in-progress-tasks.md
+        - 🔍 In Review tasks: review_circle/eligibility-proposals-review/proposal-in-review-tasks.md
+        - ✅ Done: review_circle/eligibility-proposals-review/done.md
+
+    - 📄 Contracts Review:
+        - review_circle/contracts-review/index.md
+        - 📋 Process Steps: review_circle/contracts-review/process-steps.md
+        - 🔄 Process Visualization: review_circle/contracts-review/process-visualization.md
+        - 🎬 Video Tutorial: review_circle/contracts-review/video-tutorial.md
+
+    - 🏁 Milestones Review:
+        - review_circle/milestones-review/index.md
+        - 📋 To Do tasks: review_circle/milestones-review/to-do-tasks.md
+        - 🔄 In Progress tasks: review_circle/milestones-review/in-progress-tasks.md
+        - 🔍 In Review tasks: review_circle/milestones-review/in-review-tasks.md
+        - ✅ Done tasks: review_circle/milestones-review/done-tasks.md
+
+    - 📧 Adding DF email alias on Gmail: review_circle/adding-df-email-alias-on-gmail.md
+    - ❓ FAQ: review_circle/faq.md
 
   - 👥 Awarded Teams:
     - 💁🏽 Who to Contact: awarded_teams/who_to_contact.md

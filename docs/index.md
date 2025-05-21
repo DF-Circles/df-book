@@ -8,7 +8,7 @@ This documentation serves as your guide to understanding and participating in th
 - [**For Circle Members**](all_circles/circle_payments/circle_members_payments.md) - Guide for DeepFunding circle participants
 - [**Wallet Setup Guide**](all_circles/wallet_creation/index.md) - How to set up your wallet for receiving payments
 
-## __🌟 About DeepFunding__
+<!-- ## __🌟 About DeepFunding__
 
 DeepFunding is built on three strategic pillars:
 
@@ -16,7 +16,7 @@ DeepFunding is built on three strategic pillars:
 2. [**RFPs & Alternative Funding Routes**](about/pillars/pillar-2.md) - Targeted development initiatives
 3. [**Developer Outreach**](about/pillars/pillar-3.md) - Community engagement and growth
 
-→ [Learn more about our strategic vision](about/index.md)
+→ [Learn more about our strategic vision](about/index.md) -->
 
 ## __🔄 DeepFunding Circles__
 
